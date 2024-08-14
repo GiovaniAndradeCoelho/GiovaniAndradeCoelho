@@ -31,7 +31,7 @@ Sou um desenvolvedor full stack apaixonado por criar soluções inovadoras e efi
 Estou sempre aberto a novas colaborações e oportunidades. Se você estiver interessado em discutir um projeto, trocar ideias sobre tecnologia, ou apenas bater um papo, sinta-se à vontade para entrar em contato!
 
 - **LinkedIn**: [Seu LinkedIn](link-para-o-linkedin)
-- **E-mail**: [seuemail@example.com](mailto:giovani.andrade@quantumbyte.com.br)
+- **E-mail**: [giovani.andrade@quantumbyte.com.br](mailto:giovani.andrade@quantumbyte.com.br)
 
 ## 📈 Estatísticas
 
